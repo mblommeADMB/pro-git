@@ -1,0 +1,3 @@
+[submodule "import-project"]
+	path = import-project
+	url = https://github.com/mblommeADMB/import-project.git
